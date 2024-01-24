@@ -5,7 +5,7 @@
 
 - 🌱 Constante aprendizaje en: **Unity, C#**
 
-- 👨‍💻 Todos mis proyectos están en: [https://yachiryu.itch.io](https://yachiryu.itch.io)
+- 👨‍💻 Todos mis proyectos terminados están en: [https://yachiryu.itch.io](https://yachiryu.itch.io)
 
 - 👨‍💻 Cuenta de GitLab: [https://gitlab.com/Yachiryu](https://gitlab.com/Yachiryu)
 
