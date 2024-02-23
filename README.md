@@ -9,7 +9,7 @@
 
 - 👨‍💻 Cuenta de GitLab: [https://gitlab.com/Yachiryu](https://gitlab.com/Yachiryu)
 
-- 👀 Cuenta de ArtStation: [[[https://gitlab.com/Yachiryu](https://gitlab.com/Yachiryu](https://www.artstation.com/momo_303)](https://www.artstation.com/momo_303))
+- 👀 Cuenta de ArtStation: [https://www.artstation.com/momo_303).
 
 - 📫 Como contactarme: **castrillonangeldaniel@gmail.com**
 
