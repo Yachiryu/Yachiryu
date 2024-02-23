@@ -9,9 +9,11 @@
 
 - 👨‍💻 Cuenta de GitLab: [https://gitlab.com/Yachiryu](https://gitlab.com/Yachiryu)
 
-- 📫 Como contactarme: **daniel.castrillon.a@gmail.com**
+- 👀 Cuenta de ArtStation: [[[https://gitlab.com/Yachiryu](https://gitlab.com/Yachiryu](https://www.artstation.com/momo_303)](https://www.artstation.com/momo_303))
 
-- ⚡ Un poco sobre mí: **Me gusta experimentar nuevos hobbies**
+- 📫 Como contactarme: **castrillonangeldaniel@gmail.com**
+
+- ⚡ Un poco sobre mí: **Soy una persona apasionada por nuevos conocimientos y disfruta el proceso**
 
 </p>
 </p>
